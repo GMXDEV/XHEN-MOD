@@ -1,4 +1,4 @@
-# XHEN-MOD.github.io
+# XHEN-MOD+ v1.3
 Modificación de HEN 3.0.3
 Contiene:
 HEN 3.0.3
